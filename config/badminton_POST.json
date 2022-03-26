@@ -1,0 +1,13 @@
+{
+    "Host": "ehall3.nuaa.edu.cn",
+    "Accept": "application/json, text/plain, */*",
+    "X-Requested-With": "XMLHttpRequest",
+    "Accept-Language": "zh-cn",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Origin": "https://ehall3.nuaa.edu.cn",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "Connection": "keep-alive",
+    "Referer": "https://ehall3.nuaa.edu.cn/v2/reserve/m_reserveDetail?id=17",
+    "Cookie": "PHPSESSID=***; vjuid=**; vjvd=**; vt=**; lang=zh-CN"
+}
